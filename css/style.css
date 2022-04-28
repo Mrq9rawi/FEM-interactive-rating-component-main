@@ -148,6 +148,7 @@ ul {
 .rating button:hover {
 	background-color: var(--white);
 	color: var(--orange);
+	transition: var(--transition);
 }
 
 /* Thank You */
